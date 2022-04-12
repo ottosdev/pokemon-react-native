@@ -20,4 +20,3 @@
     Execute "expo start" no terminal
     Leia o QRCode com sua camera e espere o aplicativo carrega pelo Expo.
     Divirta-se
-
